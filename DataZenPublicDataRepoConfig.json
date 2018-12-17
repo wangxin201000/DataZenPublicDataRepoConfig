@@ -1,0 +1,19 @@
+{
+  "DataZenPublicDataRepoConfig":
+  [{
+      "Name":"UserRepo1",
+      "Tags":["weather1","travel1"],
+      "Algorithms":["search1","sort1"],
+      "DataSets":["ds11","ds12"],
+      "Type":0,
+      "Url":"https://github.com/wangxin201000/UserRepo1.git"
+    },
+    {
+      "Name":"UserRepo2",
+      "Tags":["weather2","travel2"],
+      "Algorithms":["search2","sort2"],
+      "DataSets":["ds21","ds22"],
+      "Type":0,
+      "Url":"https://github.com/wangxin201000/UserRepo2.git"
+    }]
+}
