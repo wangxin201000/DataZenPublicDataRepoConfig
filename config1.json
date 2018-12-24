@@ -2,7 +2,7 @@
       "Name":"UserRepo1",
       "Tags":["weather1","travel1"],
       "Algorithms":["search1","sort1"],
-      "DataSets":["ds1","ds2"],
+      "DataSets":["dsds1","dsds2"],
       "Type":"git",
       "Url":"https://github.com/wangxin201000/UserRepo1.git"
 }
