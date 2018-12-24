@@ -1,6 +1,6 @@
 {
       "Name":"UserRepo2",
-      "Tags":["weather2","travel2"],
+      "Tags":["weatherw2","travell2"],
       "Algorithms":["search2","sort2"],
       "DataSets":["ds3","ds4"],
       "Type":"git",
