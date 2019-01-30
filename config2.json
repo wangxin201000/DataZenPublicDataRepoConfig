@@ -3,6 +3,6 @@
       "Tags":["weatherw2","travell22"],
       "Algorithms":["search2","sort2"],
       "DataSets":["ds3","isssd"],
-      "Type":"git",
+      "Type":"GitRepo",
       "Url":"https://github.com/wangxin201000/UserRepo2.git"
 }
